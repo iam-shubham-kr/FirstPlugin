@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.iamshubhamkr.firstplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.iamshubhamkr.firstplugin.MyBundle
 
 class MyApplicationService {
 
